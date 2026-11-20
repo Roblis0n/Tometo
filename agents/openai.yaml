@@ -1,0 +1,5 @@
+interface:
+  display_name: "Tometo"
+  short_description: "Engineering judgment for coding, debugging, and review"
+  icon_small: "./assets/tometo-logo.png"
+  icon_large: "./assets/tometo-logo.png"
